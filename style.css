@@ -141,7 +141,6 @@ h1 {
   top: 1.3rem;
   left: 50%;
   transform: translateX(-50%);
-  background-color: #62a2ff;
-  background-color: red;
+  background-color: orangered;
   z-index: 2;
 }
